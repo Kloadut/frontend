@@ -74,7 +74,8 @@ a:focus {
 }
 
 #neutrinet-logo {
-    margin-top: 2px;	
+    margin-top: 2px;
+	
     height: 26px;
     max-width: 100px;
 }
@@ -748,6 +749,10 @@ div.black-title a {
 .boxed-grey {
     background: #f9f9f9;
     padding: 20px;
+}
+
+.boxed-grey .container {
+    width: 100%;
 }
 
 .team h5 {
